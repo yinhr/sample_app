@@ -16,6 +16,8 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks', '5.0.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '2.6.4'
+# Convert LESS to Sass
+gem 'bootstrap-sass', '3.3.7'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
