@@ -4,6 +4,12 @@ source 'https://rubygems.org'
 gem 'rails', '5.1.6'
 # Use bcrypt
 gem 'bcrypt', '3.1.12'
+# Use faker for generating test data
+gem 'faker', '1.7.3'
+# Use will_paginate for paginate
+gem 'will_paginate', '3.1.6'
+# Use bootstrap style for will_paginate
+gem 'bootstrap-will_paginate', '1.0.0'
 # Use Puma as the app server
 gem 'puma', '3.9.1'
 # Use SCSS for stylesheets
